@@ -34,7 +34,7 @@
 |1.5|Protocol layers and Their Service Models|<https://youtu.be/IZ_PnVXtMeY>|<http://gaia.cs.umass.edu/kurose_ross/videos/1/5/1.5_video_slides_posted.pptx>|||
 |1.6|Networks under attack|<https://youtu.be/yukwBqSwAkg>|<http://gaia.cs.umass.edu/kurose_ross/videos/1/6/1.6_video_slides_posted.pptx>|||
 |1.7|History of Computer Networking; Chapter 1 Summary|<https://youtu.be/l4q8iuqbuiQ>|<http://gaia.cs.umass.edu/kurose_ross/videos/1/7/1.7_video_slides_posted.pptx>|||
-|1.8|Chapter: Supplemental topics|<https://youtu.be/l4q8iuqbuiQ> <https://youtu.be/xrd4hD_9fS8>|<http://gaia.cs.umass.edu/kurose_ross/videos/1/8/ch1_supplemental_video_slides_posted.pptx>|||
+|1.8|Chapter: Supplemental topics|<https://youtu.be/-YaGGf8C1A4> <https://youtu.be/xrd4hD_9fS8>|<http://gaia.cs.umass.edu/kurose_ross/videos/1/8/ch1_supplemental_video_slides_posted.pptx>|||
 
 ### 3.1. 汉化/镜像
 
