@@ -3,6 +3,7 @@ layout: blog
 title: blog-init-hexo
 date: 2023-01-30
 tags: init
+excerpt: 最初的开始-hexo
 ---
 
 这两天在考虑将博客从 Hugo 迁移到 Hexo；看了网上许多文章都是从 Hexo 迁移到 Hugo，感觉我在逆向行驶，当初选择 Hugo 的主要原因是：
