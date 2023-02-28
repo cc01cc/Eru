@@ -46,8 +46,10 @@ excerpt: 使用 GitHub 的一些小技巧
 }
 ```
 
----
+<!--
+Copyright © 2022,2023 [cc01cc](https://github.com/cc01cc)
 
-- 文章系个人学习总结，希望可以给大家带来些许启发，欢迎提出建议或给予指正。
-- 本作品采用[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)进行许可。
-- 欢迎大家转载分享，转载请标明源地址，谢谢
+本页面采用 [知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
+
+转载请注明原始地址：<https://github.com/cc01cc/cc01cc>
+-->

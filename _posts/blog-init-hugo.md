@@ -36,3 +36,11 @@ excerpt: 最初的开始-hugo
 - [ ] 添加 CSDN, 知乎 等其他平台账号访问连接
 - [ ] 迁移汇总整理 CSDN 等平台文章回答等信息
 - [ ] 利用评论区等功能，添加动态/随笔
+
+<!--
+Copyright © 2022,2023 [cc01cc](https://github.com/cc01cc)
+
+本页面采用 [知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
+
+转载请注明原始地址：<https://github.com/cc01cc/cc01cc>
+-->

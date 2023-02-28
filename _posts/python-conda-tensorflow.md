@@ -75,3 +75,11 @@ else:
 - 「扩展」Anaconda | TensorFlow in Anaconda: <https://www.anaconda.com/blog/tensorflow-in-anaconda>
 
 - 不太清楚 `conda install -c nvidia cuda` 命令的作用，因为网络问题，一直没有成功过（也没有找到合适的镜像源）
+
+<!--
+Copyright © 2022,2023 [cc01cc](https://github.com/cc01cc)
+
+本页面采用 [知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
+
+转载请注明原始地址：<https://github.com/cc01cc/cc01cc>
+-->
