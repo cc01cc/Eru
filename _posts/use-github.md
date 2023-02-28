@@ -1,10 +1,8 @@
 ---
-title: Use Github
-description: 使用 GitHub 的一些小技巧
+title: use-github
 date: 2022-06-06
-slug: use-github
-categories:
-    - 最初的开始
+tags:
+excerpt: 使用 GitHub 的一些小技巧
 ---
 
 ## 高级搜索

@@ -1,14 +1,11 @@
 ---
-title: Jedis
+title: jedis
 date: 2022-11-19
-slug: jedis-redis-20221119
-image: https://raw.githubusercontent.com/cc01cc/zeorep/main/pic/202205311832380.jpg
-categories:
-    - java
-tag:
+tags:
     - java
     - redis
     - jedis
+excerpt: Java Redis Jedis
 ---
 
 > redis/jedis: Redis Java client designed for performance and ease of use. <https://github.com/redis/jedis>
@@ -128,8 +125,3 @@ void setUp() {
 ---
 
 - 代码：<https://github.com/cc01cc/Initial/tree/master/09-01-redis/jedis-initial>
-
----
-
-- 署名：cc01cc: <https://github.com/cc01cc>
-- 欢迎大家转载分享，本作品采用 [署名-非商业性使用-禁止演绎 4.0 国际](https://creativecommons.org/licenses/by-nc-nd/4.0/) 进行许可，转载请标明源地址，切莫修改或破坏原文结构，谢谢

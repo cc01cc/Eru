@@ -1,11 +1,7 @@
 ---
 title: 使用 mamba 提速 conda
-# description: 
 date: 2022-11-16
-slug: conda-mamba-20221116
-categories:
-    - python
-tag:
+tags:
     - python
     - conda
 ---
@@ -57,8 +53,3 @@ $ mamba repoquery depends -t xtensor
 ## 参考
 
 1. Anaconda | Understanding and Improving Conda's performance: <https://www.anaconda.com/blog/understanding-and-improving-condas-performance>
-
----
-
-- 署名：cc01cc: <https://github.com/cc01cc>
-- 欢迎大家转载分享，本作品采用[署名-非商业性使用-禁止演绎 4.0 国际](https://creativecommons.org/licenses/by-nc-nd/4.0/)进行许可，转载请标明源地址，切莫修改或破坏原文结构，谢谢

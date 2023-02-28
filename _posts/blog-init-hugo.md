@@ -1,12 +1,8 @@
 ---
-title: 最初的开始-hugo
-description: 这是一切开始的地方
+title: blog-init-hugo
 date: 2022-11-13
-# published: true
-# lastUpdated: 2022-11-15
-slug: initial-blog-hugo
-categories:
-    - 最初的开始
+tags:
+excerpt: 最初的开始-hugo
 ---
 
 这是使用 Hugo 建立本站的第一篇文章。

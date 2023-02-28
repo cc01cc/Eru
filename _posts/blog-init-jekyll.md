@@ -1,11 +1,10 @@
 ---
-title: 最初的开始-jekyll
-description: 这是一切开始的地方
+title: blog-init-jekyll
 date: 2022-05-31
-slug: initial-blog-jekyll
-categories:
-    - 最初的开始
+tags:
+excerpt: 最初的开始-jekyll
 ---
+
 
 ## Jekyll 目录结构
 
@@ -52,9 +51,3 @@ categories:
 ## 参考
 
 > Setup | Jekyll • Simple, blog-aware, static sites <https://jekyllrb.com/docs/step-by-step/01-setup/>
-
----
-
-- 文章系个人学习总结，希望可以给大家带来些许启发，欢迎提出建议或给予指正。
-- 本作品采用[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)进行许可。
-- 欢迎大家转载分享，转载请标明源地址，谢谢

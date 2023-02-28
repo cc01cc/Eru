@@ -1,10 +1,7 @@
 ---
 title: java 读取 yaml
-description: 这是一切开始的地方
 date: 2022-06-04
-slug: java-yaml
-categories:
-    - Java
+tags:
 ---
 
 ## 1. pom.xml
@@ -109,9 +106,3 @@ public class Qq {
 ## 8. 参考
 
 1. YAML file read/parse and write in java| Latest tutorials: <https://www.w3schools.io/file/yaml-java-read-write/>
-
----
-
-- 文章系个人学习总结，希望可以给大家带来些许启发，欢迎提出建议或给予指正。
-- 本作品采用[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)进行许可。
-- 欢迎大家转载分享，转载请标明源地址，谢谢

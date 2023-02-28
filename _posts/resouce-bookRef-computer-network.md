@@ -1,9 +1,10 @@
-# Computer Networking: A Top-Down Approach
+---
+title: "Computer Networking: A Top-Down Approach"
+date: 2023-03-01 00:51:15
+tags:
+---
 
-> 页面存在的问题：
->
-> - 网页链接过长（显式链接，是因为从链接中也能获取许多信息）
-> - 稍晚些使用缩写字符代替重复的部分
+
 
 ## 1. 配套 Web 站点
 
@@ -49,6 +50,9 @@
 |1.7|History of Computer Networking; Chapter 1 Summary|<https://www.bilibili.com/video/BV1mb4y1d7K7?p=7>|字幕-中简|
 |1.8|Chapter: Supplemental topics|||
 
-- 本文采用[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)进行许可。
-- 欢迎大家转载分享，转载请遵守许可协议并标明源地址，谢谢
-- 本文贡献者：[cc01cc](https://github.com/cc01cc)
+## TODO
+
+> 页面存在的问题：
+>
+> - 网页链接过长（显式链接，是因为从链接中也能获取许多信息）
+> - 稍晚些使用缩写字符代替重复的部分

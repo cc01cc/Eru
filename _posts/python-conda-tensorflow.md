@@ -1,11 +1,7 @@
 ---
 title: 安装 tensorflow GPU（使用 conda）
-# description: 
 date: 2022-12-06
-slug: conda-tensorflow-20221206
-categories:
-    - python
-tag:
+tags:
     - python
     - conda
 ---
@@ -79,8 +75,3 @@ else:
 - 「扩展」Anaconda | TensorFlow in Anaconda: <https://www.anaconda.com/blog/tensorflow-in-anaconda>
 
 - 不太清楚 `conda install -c nvidia cuda` 命令的作用，因为网络问题，一直没有成功过（也没有找到合适的镜像源）
-
----
-
-- 署名：cc01cc: <https://github.com/cc01cc>
-- 欢迎大家转载分享，本作品采用[署名-非商业性使用-禁止演绎 4.0 国际](https://creativecommons.org/licenses/by-nc-nd/4.0/)进行许可，转载请标明源地址，切莫修改或破坏原文结构，谢谢
