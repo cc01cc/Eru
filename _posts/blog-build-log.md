@@ -3,6 +3,7 @@ title: blog-build-log
 date: 2023-02-26 00:37:46
 tags:
 excerpt: 建站日志
+copyright: 'BY-NC-ND'
 ---
 
 ## 2023年2月
