@@ -13,7 +13,7 @@ tags:
 
 ## 1. 安装 Docker Engine
 
-- 可以参考 [[linux-docker-rocky-install]] <https://cc01cc.com/2023/03/02/2023/03/02/linux-docker-rocky-install/>
+- 可以参考 [[linux-docker-rocky-install]] <https://cc01cc.com/2023/03/02/linux-docker-rocky-install/>
 - 英文可以参考官方文档 `Install Docker Engine on RHEL` <https://docs.docker.com/engine/install/rhel/>
 
 ## 2. 安装 Docker Compose
