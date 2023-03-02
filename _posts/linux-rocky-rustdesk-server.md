@@ -149,7 +149,7 @@ sudo systemctl status docker
 
 <https://docs.docker.com/compose/gettingstarted/>
 
-```
+```shell
 docker compose up
 ```
 
