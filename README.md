@@ -1,3 +1,10 @@
+---
+title: Eru
+copyright: BY-NC-ND
+date: 2022-06-14 17:33:24
+hide: true
+---
+
 # Eru
 
 此项目取名自 [《冰菓》](https://zh.moegirl.org.cn/%E5%86%B0%E8%8F%93)（[京都动画](https://www.kyotoanimation.co.jp/) 制作）的 [千反田爱瑠 (Chitanda Eru)](https://zh.moegirl.org.cn/%E5%8D%83%E5%8F%8D%E7%94%B0%E7%88%B1%E7%91%A0)
