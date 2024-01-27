@@ -21,7 +21,7 @@ categories:
 还有一点促使我迁移的原因是，Hugo 以及主题的文档中推荐使用本地图片，不推荐远程链接（图床等），但是我本地仓库使用 git 管理，不太想添加过多的二进制文件导致仓库臃肿，图片一般使用图床，所以考虑迁出 Hugo。
 
 <!--
-Copyright © 2022,2023 [cc01cc](https://github.com/cc01cc)
+Copyright © 2022-2024 [cc01cc](https://github.com/cc01cc)
 
 本页面采用 [知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
 

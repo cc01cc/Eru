@@ -114,7 +114,7 @@ conda config --add default_channels http://mirrors.aliyun.com/anaconda/pkgs/main
 运行 `conda clean -i` 命令清除索引缓存，确保使用的是镜像站的索引。
 
 <!--
-Copyright © 2023 [cc01cc](https://github.com/cc01cc)
+Copyright © 2023-2024 [cc01cc](https://github.com/cc01cc)
 
 本页面采用 [知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
 

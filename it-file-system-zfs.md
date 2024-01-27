@@ -57,7 +57,7 @@ sudo zpool replace pool_name failed_disk new_disk
 - Getting Started — OpenZFS documentation: <https://openzfs.github.io/openzfs-docs/Getting%20Started/index.html>
 
 <!--
-Copyright © 2023 [cc01cc](https://github.com/cc01cc)
+Copyright © 2023-2024 [cc01cc](https://github.com/cc01cc)
 
 本文部分内容改编自与 Microsoft Bing 的对话
 

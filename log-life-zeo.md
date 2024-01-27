@@ -2,12 +2,13 @@
 title: 昔日织（ヒビオル）
 copyright: BY-NC-ND
 date: 2023-04-06 22:20:54
+update: 2023-11-27
 sticky: 100
 banner_img: https://v01.static.cc01cc.cn/さよならの朝に約束の花をかざろう-tinypng.png
 tags:
     - life
 categories:
-  - life
+    - life
 ---
 
 > 昔日织会记下，那些漠然被岁月消磨的记忆，那些不得不别过的人儿，也会在昔日织里，与你执手相看泪眼
@@ -150,7 +151,7 @@ DO: 单词，论文 -->
 最近在做 AI 相关的课题，然后今天也接触了一下函数计算，感觉之后可以用得上。
 
 <!--
-Copyright © 2023 [cc01cc](https://github.com/cc01cc)
+Copyright © 2023-2024 [cc01cc](https://github.com/cc01cc)
 
 本页面采用 [知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
 

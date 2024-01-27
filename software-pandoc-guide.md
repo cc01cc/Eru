@@ -40,7 +40,7 @@ pandoc ./1.pdf -f pdf -t docx -o ./1.docx
 3. **用户手册** Pandoc - Pandoc User’s Guide: <https://pandoc.org/MANUAL.html>
 
 <!--
-Copyright © 2023 [cc01cc](https://github.com/cc01cc)
+Copyright © 2023-2024 [cc01cc](https://github.com/cc01cc)
 
 本页面采用 [知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/) 进行许可。
 

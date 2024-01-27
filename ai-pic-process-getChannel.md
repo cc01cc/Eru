@@ -56,7 +56,7 @@ OpenCV 会自动加载扩展，将此类型图片转化为 RGB 图像处理，�
 > [扩展] python - What is the difference between images in 'P' and 'L' mode in PIL? - Stack Overflow: <https://stackoverflow.com/questions/52307290/what-is-the-difference-between-images-in-p-and-l-mode-in-pil/52307690#52307690>
 
 <!--
-Copyright © 2023 [cc01cc](https://github.com/cc01cc)
+Copyright © 2023-2024 [cc01cc](https://github.com/cc01cc)
 
 本页面采用 [知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
 

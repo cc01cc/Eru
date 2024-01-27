@@ -73,7 +73,7 @@ Intel Unison 是英特尔官方推出的一款跨不同操作系统和平台的�
 UI 设计以及功能体验都非常的出色；如果想要体验跨设备无线互联，可以尝试一下。（有线的话，我直接用 ADB）
 
 <!--
-Copyright © 2023 [cc01cc](https://github.com/cc01cc)
+Copyright © 2023-2024 [cc01cc](https://github.com/cc01cc)
 
 本页面采用 [知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
 

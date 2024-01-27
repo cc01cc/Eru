@@ -52,7 +52,7 @@ deb-src https://mirrors.bfsu.edu.cn/debian-security bookworm-security main contr
 - Debian 软件仓库镜像使用帮助 - MirrorZ Help: <https://mirror.nju.edu.cn/mirrorz-help/debian/>
 
 <!--
-Copyright © 2023 [cc01cc](https://github.com/cc01cc)
+Copyright © 2023-2024 [cc01cc](https://github.com/cc01cc)
 
 本页面采用 [知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
 

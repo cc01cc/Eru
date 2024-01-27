@@ -58,7 +58,7 @@ categories:
 > Setup | Jekyll • Simple, blog-aware, static sites <https://jekyllrb.com/docs/step-by-step/01-setup/>
 
 <!--
-Copyright © 2022,2023 [cc01cc](https://github.com/cc01cc)
+Copyright © 2022-2024 [cc01cc](https://github.com/cc01cc)
 
 本页面采用 [知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
 
