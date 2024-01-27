@@ -8,6 +8,8 @@ categories:
     - blog-build
 ---
 
+> 此图床已于 2024 年 1 月 28 日停止使用。
+
 图床搭建完成！
 
 ![Yeah](https://image.cc01cc.cn/FmKsvhSakAEIzEg.jpg)
