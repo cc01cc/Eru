@@ -2,6 +2,7 @@
 title: 搭建静态资源存储库（含图床）（OSS 存储+ DCDN 流量保护）
 copyright: BY-NC-ND
 date: 2023-03-28 23:33:15
+update: 2024-01-28
 tags:
     - blog-build
 categories:
